@@ -56,6 +56,7 @@ public class MultiBrowserTestNG {
 		
 		softAss= new SoftAssert();
 		// new line added
+		System.out.println("new line added");
 		
 		softAss.assertEquals(actual, Expected);
 		

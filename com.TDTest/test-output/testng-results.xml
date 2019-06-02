@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14747" started-at="2019-05-21T18:05:02Z" finished-at="2019-05-21T18:05:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14747" started-at="2019-05-21T18:05:02Z" finished-at="2019-05-21T18:05:17Z">
+      <class name="multiBrowserTest.MultiBrowserTestNG">
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:multiBrowserTest.MultiBrowserTestNG@7dc7cbad]" name="setupTest" is-config="true" duration-ms="6689" started-at="2019-05-21T13:05:02Z" finished-at="2019-05-21T13:05:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="googleSearch(java.lang.reflect.Method)[pri:0, instance:multiBrowserTest.MultiBrowserTestNG@7dc7cbad]" name="googleSearch" duration-ms="7181" started-at="2019-05-21T13:05:09Z" finished-at="2019-05-21T13:05:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void multiBrowserTest.MultiBrowserTestNG.googleSearch(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:multiBrowserTest.MultiBrowserTestNG@7dc7cbad]" name="tearDown" is-config="true" duration-ms="813" started-at="2019-05-21T13:05:16Z" finished-at="2019-05-21T13:05:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- multiBrowserTest.MultiBrowserTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
